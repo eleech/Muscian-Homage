@@ -2,4 +2,5 @@
 
 Hi Suzie! 
 
-I made this branch. This is pretty cool!
+Is README.md section used for notes? 
+
